@@ -14,7 +14,7 @@ public class Stock {
 		month=1;
 		year=1;
 		name="";
-		//setting to zero induvidually
+		//setting to zero
 		for (int i=0; i<7; i++) {
 			values [i] = 0;
 		}
